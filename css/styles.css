@@ -1,0 +1,30 @@
+body {
+	font-size: 18px;
+	font-family: Comic Sans MS;
+}
+#header-nav {
+	background-color: #828282;
+	border-radius: 0;
+ 	border: 0;
+}
+#site-name {
+	font-weight: bold;
+	margin-left: 10px;
+	float: left;
+}
+
+#nav-list {
+	background-color: #FFFFFF;
+	text-align: center;
+}
+#nav-list li {
+	border-bottom: 1px solid black;
+}
+.row {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+#category-tile {
+	background-color: #828282;
+	margin-bottom: 30px;
+}
